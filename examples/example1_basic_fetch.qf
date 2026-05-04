@@ -1,0 +1,3 @@
+# Simple example: Fetch and render
+FETCH employees FROM "data/employees.csv";
+RENDER employees AS table;

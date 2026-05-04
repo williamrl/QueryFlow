@@ -1,0 +1,5 @@
+# Example: Fetch, Filter, and Render
+# Filters for employees in the Engineering department with performance > 8
+FETCH employees FROM "data/employees.csv";
+FILTER employees WHERE department == "Engineering" AND performance_score > 8;
+RENDER employees AS table;

@@ -1,0 +1,6 @@
+# Example: Complete pipeline
+# Fetch data, filter for active employees over 30, map to specific fields, render as JSON
+FETCH staff FROM "data/employees.csv";
+FILTER staff WHERE age > 30 AND active == 1;
+MAP staff TO {name: full_name, department, salary};
+RENDER staff AS json;

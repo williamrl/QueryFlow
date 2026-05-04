@@ -1,0 +1,13 @@
+full_name,age,department,job_title,status,salary,performance_score,hire_date,active
+John Smith,28,Engineering,Software Engineer,active,75000,8.5,2019-03-15,1
+Sarah Johnson,35,Sales,Sales Manager,active,65000,8.2,2018-01-20,1
+Mike Chen,42,Engineering,Senior Engineer,active,95000,9.1,2015-06-10,1
+Lisa Wong,29,HR,HR Specialist,inactive,55000,7.8,2020-02-14,0
+David Brown,38,Sales,Sales Rep,active,60000,7.5,2017-11-03,1
+Emily Davis,26,Marketing,Marketing Analyst,active,50000,8.0,2021-04-18,1
+Robert Taylor,45,Executive,VP Engineering,active,120000,9.5,2012-09-25,1
+Jennifer Lee,31,Engineering,QA Engineer,active,65000,8.3,2019-08-07,1
+William Martinez,52,Executive,CEO,active,150000,9.8,2010-01-01,1
+Amanda Clark,24,Engineering,Intern,active,30000,7.2,2023-06-01,1
+Christopher Johnson,33,Sales,Account Manager,active,70000,8.1,2018-05-10,1
+Jessica White,29,Engineering,DevOps Engineer,active,80000,8.7,2019-11-20,1
